@@ -1,3 +1,5 @@
+##This tool is designed for BL4 and DOESNOT decrypt the files.
+
 ##NCS Reader
 Overview
 
@@ -113,3 +115,4 @@ License
 This project is provided for educational and research purposes only.
 
 Not intended for commercial use or redistributing proprietary .ncs files.
+
