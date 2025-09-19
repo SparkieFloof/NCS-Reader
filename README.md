@@ -1,5 +1,5 @@
 ##NCS Reader
-##Overview
+Overview
 
 NCS Reader is a desktop tool written in Python with Tkinter for inspecting and editing .ncs files.
 It is designed to help reverse-engineer, analyze, and manipulate binary record-based files by providing multiple synchronized views of the file contents:
@@ -61,7 +61,7 @@ Scrollbars for JSON, table, and hex views for easier navigation.
 Toolbar for quick actions (Save JSON, Save NCS, Toggle Theme).
 
 ##How to Run
-##Requirements
+Requirements
 
 Python 3.9+ (tested on 3.12).
 
@@ -111,4 +111,5 @@ Double-click execution (main.py) may not work on all systems without configuring
 License
 
 This project is provided for educational and research purposes only.
+
 Not intended for commercial use or redistributing proprietary .ncs files.
